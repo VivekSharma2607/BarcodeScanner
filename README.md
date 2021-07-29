@@ -1,1 +1,1 @@
-# BarcodeScanner 
+# Barcode Scanner 
