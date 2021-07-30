@@ -4,3 +4,12 @@ The model is made using module
   2. Numpy  = a powerful N-dimensional array object
   3. python-opencv = Pre-built CPU-only OpenCV packages for Python.
 For the installation of the above modules visit https://pypi.org/
+
+
+# Requirements
+requirements.txt caintains all the module needed for running the program.
+# Installation
+  1. Clone the repositery.
+  2. pip install -r requirements.txt
+  3. Enter the certified barcode in main.txt file
+  4. Run the program.
