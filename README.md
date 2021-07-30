@@ -8,6 +8,8 @@ The model is made using module
 
 For the installation of the above modules visit https://pypi.org/
 
+# About
+The Program is designed to scan and tell whether a person is authorized or not by scanning its barcode.
 
 # Requirements
 requirements.txt caintains all the module needed for running the program.
